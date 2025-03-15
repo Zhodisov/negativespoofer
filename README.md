@@ -14,6 +14,9 @@
 </div>
 
 
+
+
+
 # negativespoofer
 [Based on Clover's bootloader SMBIOS patching method](https://github.com/CloverHackyColor/CloverBootloader/blob/22f9adcbc97e1291bc2361d69b66f96a29af0d05/rEFIt_UEFI/Platform/smbios.cpp) *negativespoofer* spoofs SMBIOS tables before the boot of the OS.
 
